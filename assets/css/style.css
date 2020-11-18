@@ -19,10 +19,18 @@
     padding: 2px;
     margin: 2px; */
   /* } */
-  #backgrdcolor{
-    background-color: #4aaaa2;
-  }
+  /* #backgrdcolor{ */
+    /* background-color: #4aaaa2; */
+  /* } */
 
   .fontsize{
       font-size: 30px;
   }
+h1 {
+  font-size: 15px;
+  color: #ffffff;
+  margin: 0;
+}
+.btn-primary{
+  background-color: #4aaaa2;
+}
